@@ -1,6 +1,8 @@
 
 const avitalsFirstFunction = () => {
   console.log("Avital");
+  console.log("fghj");
+  
 };
 
 console.log("chani");
